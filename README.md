@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @nagashree
-- 👀 I’m interested in coding,duh.
-- 😄 Pronouns: she/her hehe
+-  Hi there 👋, I'm Nagashree!
+-🔭 I’m currently working on a project based on AI      
+- 📫 How to reach me: nagashreevkrishna@gmail.com
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I am an artist after my soon-to-be 9-5 haha
 
 <!---
 vnaags/vnaags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
