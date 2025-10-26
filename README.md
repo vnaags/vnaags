@@ -1,5 +1,5 @@
 -  Hi there 👋, I'm Nagashree!
--🔭 I’m currently working on a project based on AI      
+-🔭 Not gonna lie, coding is fun { only when you know how to ;) }
 - 📫 How to reach me: nagashreevkrishna@gmail.com
 - 😄 Pronouns: She/Her
 - ✨ tryna get deeper into tech day-by-day
